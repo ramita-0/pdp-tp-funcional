@@ -1,2 +1,7 @@
-# pdp-tp-funcional
-Repositorio del TP del grupo 11
+# Trabajo practico sobre Paradigma Funcional
+> \> Implementacion en Haskell
+
+## Integrantes
+- Integrante 1: `Istepanoglu, Tiziana` 
+- Integrante 2: `Moya Isnaldi, Ramiro`
+- Integrante 3: `Schmidt, Santiago`
